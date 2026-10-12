@@ -1,5 +1,10 @@
 # Soc Ops — Python Agent Lab
 
+## Live Demo / Deployment URL
+
+**Deployment URL:** Not verified yet. Add the confirmed public application URL here after checking the live service. The repository's GitHub URL is the source code, not a deployed application.
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/saikishore2410/agent-lab-python) [![Issues](https://img.shields.io/github/issues/saikishore2410/agent-lab-python)](https://github.com/saikishore2410/agent-lab-python/issues) [![Last Commit](https://img.shields.io/github/last-commit/saikishore2410/agent-lab-python)](https://github.com/saikishore2410/agent-lab-python/commits/main)
 
 > 🌐 [Português (BR)](README.pt_BR.md) | [Español](README.es.md)
