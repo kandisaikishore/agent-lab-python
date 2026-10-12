@@ -1,25 +1,30 @@
 🌐 [Português (BR)](README.pt_BR.md) | [Español](README.es.md)
 
-# Soc Ops
+# Soc Ops — Python Agent Lab
 
-Social Bingo game for in-person mixers. Find people who match the questions and get 5 in a row!
+A social-bingo game for in-person mixers: find people who match prompt questions and aim for five in a row. This repository also includes a step-by-step lab guide for learning agent-oriented development workflows.
 
----
+## Lab guide
 
-## 📚 Lab Guide
+| Part | Topic |
+| --- | --- |
+| [00](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=00-overview) | Overview and checklist |
+| [01](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=01-setup) | Setup and context engineering |
+| [02](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=02-design) | Design-first frontend |
+| [03](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=03-quiz-master) | Custom quiz master |
+| [04](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=04-multi-agent) | Multi-agent development |
 
-| Part | Title |
-|------|-------|
-| [**00**](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=00-overview) | Overview & Checklist |
-| [**01**](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=01-setup) | Setup & Context Engineering |
-| [**02**](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=02-design) | Design-First Frontend |
-| [**03**](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=03-quiz-master) | Custom Quiz Master |
-| [**04**](https://copilot-dev-days.github.io/agent-lab-python/docs/step.html?step=04-multi-agent) | Multi-Agent Development |
+## Explore the repository
 
-> 📝 Lab guides are also available in the [`workshop/`](workshop/) folder for offline reading.
+- Follow the guide in order for the intended learning path
+- Review the `workshop/` directory for workshop material
+- Use the documented setup instructions before running the app
+- Treat workshop examples as learning material, and adapt them to your own requirements
 
----
+## Contributions
 
-## 🚀 Getting Started
+Fixes to instructions, examples, accessibility, or workshop reliability are welcome. Include reproduction steps and validate documentation links where practical.
 
-Head to **[Part 00: Overview](https://copilot-dev-days.github.io/agent-lab-python/step.html?step=00-overview)** for prerequisites and setup instructions.
+## License and attribution
+
+Review the existing license and any workshop-specific terms before redistributing or reusing project materials.
