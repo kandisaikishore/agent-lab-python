@@ -71,9 +71,7 @@ jobs:
           # Prevent Jekyll processing
           touch ./_site/.nojekyll
       
-      - uses: actions/configure-pages@v4
-        with:
-          enablement: true
+      - uses: actions/configure-pages@v5
       
       - uses: actions/upload-pages-artifact@v3
         with:
