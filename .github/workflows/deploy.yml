@@ -71,7 +71,12 @@ jobs:
           # Prevent Jekyll processing
           touch ./_site/.nojekyll
       
+      - name: Verify GitHub Pages is configured
+        run: |
+          echo "The static site artifact is prepared. GitHub Pages must be enabled with GitHub Actions as the build source in repository settings before deployment can succeed."
       - uses: actions/configure-pages@v5
+        with:
+          enablement: false
       
       - uses: actions/upload-pages-artifact@v3
         with:
