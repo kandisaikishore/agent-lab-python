@@ -65,10 +65,8 @@ jobs:
 
           touch ./_site/.nojekyll
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
+      - name: Verify Pages deployment prerequisites
+        run: echo "GitHub Pages must be enabled with Actions as the source in repository settings. The workflow token cannot enable Pages for this repository."
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
